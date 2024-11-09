@@ -11,7 +11,7 @@ test('Go to page and click button', async ({ page }) => {
   // Optionally, verify some action has taken place, e.g., check for a response
   await expect(page).toHaveURL('https://www.iup.cz/nasledne-vzdelavani/'); // Verify URL stays the same or add specific URL logic here
 
-  // Additional verification could go here
+  // Additional verification could go here.
 });
 
 
